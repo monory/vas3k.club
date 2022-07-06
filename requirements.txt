@@ -30,7 +30,7 @@ h11==0.9.0
 httptools==0.1.1 ; sys_platform != 'win32' and sys_platform != 'cygwin' and platform_python_implementation != 'PyPy'
 idna==2.9
 jieba3k==0.35.1
-lxml==4.5.1
+lxml==4.9.1
 mistune==2.0.0a4
 newspaper3k==0.2.8
 nltk==3.4.5
